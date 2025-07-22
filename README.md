@@ -34,4 +34,4 @@ pip3 install PyQt5 requests pyyaml
 ---
 
 **Autor:**
-Tým Material Auto Test Tool 
+Michal Vetiška
